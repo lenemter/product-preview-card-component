@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-0iz3pkuZeq)
 - Live Site URL: [Live Site](https://lenemter.github.io/product-preview-card-component/)
 
 ## My process
